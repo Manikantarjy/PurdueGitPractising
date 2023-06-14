@@ -1,3 +1,3 @@
 This is for testing purpose.
-content is feature updated
+changes from feature
 This is an update of file 
